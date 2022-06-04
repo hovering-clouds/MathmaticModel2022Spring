@@ -13,3 +13,5 @@ root
 |-----figure      图片素材
 
 |-----md          Md文档
+
+|-----pdf          Latex排的pdf文档(没有正文的，因为有些个人信息QWQ)
